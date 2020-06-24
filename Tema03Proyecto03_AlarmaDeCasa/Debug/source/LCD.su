@@ -1,0 +1,15 @@
+fsl_gpio.h:175:20:GPIO_SetPinsOutput	16	static
+fsl_gpio.h:186:20:GPIO_ClearPinsOutput	16	static
+LCD.c:9:6:LCD_Data	24	static
+LCD.c:14:6:Write_Data	24	static
+LCD.c:42:6:LCD_CMD	16	static
+LCD.c:56:6:LCD_Write	16	static
+LCD.c:69:6:LCD_Clear	16	static
+LCD.c:74:6:LCD_Return	16	static
+LCD.c:79:6:LCD_Mode	24	static
+LCD.c:88:6:LCD_Set	32	static
+LCD.c:99:6:LCD_Cursor	24	static
+LCD.c:108:6:LCD_Activate	32	static
+LCD.c:119:6:LCD_CGRAM	24	static
+LCD.c:125:6:LCD_DDRAM	24	static
+LCD.c:131:6:Delay	24	static
